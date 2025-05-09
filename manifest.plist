@@ -1,0 +1,30 @@
+1<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+2<plist version="1.0">
+3<dict>
+4    <key>items</key>
+5    <array>
+6        <dict>
+7            <key>assets</key>
+8            <array>
+9                <dict>
+10                    <key>kind</key>
+11                    <string>software-package</string>
+12                    <key>url</key>
+13                    <string>https://psychengineiostestwebsite.com/app-install/app.ipa</string>
+14                </dict>
+15            </array>
+16            <key>metadata</key>
+17            <dict>
+18                <key>bundle-identifier</key>
+19                <string>co.median.ios</string>
+20                <key>bundle-version</key>
+21                <string>1.0</string>
+22                <key>kind</key>
+23                <string>software</string>
+24                <key>title</key>
+25                <string>Test App Builder</string>
+26            </dict>
+27        </dict>
+28    </array>
+29</dict>
+30</plist>
